@@ -121,7 +121,7 @@ def train_dqn(
 if __name__ == "__main__":
 
     agent, rewards = train_dqn(
-        env_name="CartPole-v1",
+        env_name="LunarLander-v3",
         episodes=500,
-        render=False
+        render=True
     )

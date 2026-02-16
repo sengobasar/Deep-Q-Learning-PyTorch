@@ -542,18 +542,6 @@ Under certain conditions (tabular case, infinite exploration), Q-learning conver
 
 ---
 
-## 👤 Author
-
-**[Your Name]**  
-BCA Student | Reinforcement Learning & Applied AI
-
-**Focus Areas:**
-- Value-based reinforcement learning
-- Neural network optimization
-- Algorithmic game theory
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License. See `LICENSE` file for details.

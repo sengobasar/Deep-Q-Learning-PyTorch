@@ -2,7 +2,8 @@
 
 <div align="center">
 
-![LunarLander Training](./lunar_lander_training.png)
+<img width="1800" height="947" alt="image" src="https://github.com/user-attachments/assets/0461d819-6ade-4d35-b9a4-4ad2a93bfc67" />
+
 
 **A from-scratch implementation of Deep Q-Network reinforcement learning**
 
